@@ -1,3 +1,5 @@
+package com.vk.axwer.kotlin.p111
+
 // Класс данных
 data class Person(
         val name: String,
