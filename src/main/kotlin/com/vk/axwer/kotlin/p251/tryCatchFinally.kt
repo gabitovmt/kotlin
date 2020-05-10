@@ -21,7 +21,7 @@ fun printPercentage(number: Int) {
             else
                 // "throw" - это выражение
                 throw IllegalArgumentException("A percentage value must be between 0 and 100: $number")
-    println("$number%")
+    println("$percentage%")
 }
 
 // Использование try как в Java
