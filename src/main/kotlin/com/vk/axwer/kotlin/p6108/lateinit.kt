@@ -1,4 +1,4 @@
-package com.vk.axwer.kotlin.p618
+package com.vk.axwer.kotlin.p6108
 
 // 6.1.8. Свойства с отложенной инициализацией
 fun main() {

@@ -1,4 +1,4 @@
-package com.vk.axwer.kotlin.p613
+package com.vk.axwer.kotlin.p6103
 
 // 6.1.3. Оператор безопасного вызова: "?."
 fun main() {

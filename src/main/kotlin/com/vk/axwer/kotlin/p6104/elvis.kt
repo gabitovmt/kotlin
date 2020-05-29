@@ -1,8 +1,8 @@
-package com.vk.axwer.kotlin.p614
+package com.vk.axwer.kotlin.p6104
 
-import com.vk.axwer.kotlin.p613.Address
-import com.vk.axwer.kotlin.p613.Company
-import com.vk.axwer.kotlin.p613.Person
+import com.vk.axwer.kotlin.p6103.Address
+import com.vk.axwer.kotlin.p6103.Company
+import com.vk.axwer.kotlin.p6103.Person
 
 // 6.1.4. Оператор "Элвис": "?:"
 fun main() {

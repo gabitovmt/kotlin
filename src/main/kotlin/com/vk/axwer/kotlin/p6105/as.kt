@@ -1,4 +1,4 @@
-package com.vk.axwer.kotlin.p615
+package com.vk.axwer.kotlin.p6105
 
 // 6.1.5. Безопасное приведение типов: оператор "as?"
 fun main() {

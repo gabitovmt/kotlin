@@ -1,6 +1,6 @@
-package com.vk.axwer.kotlin.p616
+package com.vk.axwer.kotlin.p6106
 
-import com.vk.axwer.kotlin.p613.Person
+import com.vk.axwer.kotlin.p6103.Person
 
 // 6.1.6. Проверка на null: утверждение "!!"
 fun main() {

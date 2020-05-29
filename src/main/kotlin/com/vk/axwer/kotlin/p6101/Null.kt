@@ -1,4 +1,4 @@
-package com.vk.axwer.kotlin.p611
+package com.vk.axwer.kotlin.p6101
 
 // 6.1.1. Типы с поддержкой значения null
 fun main() {

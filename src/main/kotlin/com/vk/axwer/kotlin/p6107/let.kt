@@ -1,4 +1,4 @@
-package com.vk.axwer.kotlin.p617
+package com.vk.axwer.kotlin.p6107
 
 // 6.1.7. Функция let
 fun main() {

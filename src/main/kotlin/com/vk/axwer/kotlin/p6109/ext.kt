@@ -1,4 +1,4 @@
-package com.vk.axwer.kotlin.p619
+package com.vk.axwer.kotlin.p6109
 
 // 6.1.9. Расширение типов с поддержкой null
 fun main() {
